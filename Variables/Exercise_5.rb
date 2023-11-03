@@ -1,0 +1,2 @@
+puts "Code_1 will print '3' since the block was able to access the outer variables of x previously defined as 0 and alter the value to 3 by added 1 three times to 0"
+puts "Code_2 will print an error such as 'undefined local variable or method' since the x variable was created inside the scope of the do/end block will not be accessible to the outside"
