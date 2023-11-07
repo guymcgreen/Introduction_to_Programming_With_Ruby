@@ -1,0 +1,3 @@
+Using the ruby documentation, determine how you can write large numbers in a way that makes them easier to read.
+
+Answer: use underscores (1_000_000) like commas

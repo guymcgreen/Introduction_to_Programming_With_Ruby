@@ -1,0 +1,4 @@
+Locate the documentation for break, and determine what value break sets the return value to for the while loop.
+
+Answer: returns the value that broke the condition
+>break returns nil when no argument provided (if not explicitly stated in ruby doc, usually everything returns nil)
